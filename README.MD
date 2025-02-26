@@ -1,1 +1,1 @@
-this is git course
+Hello, Hexlet
